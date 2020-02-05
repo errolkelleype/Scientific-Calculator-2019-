@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\bin\Debug\Scientific Calc.exe.config
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\bin\Debug\Scientific Calc.exe
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\bin\Debug\Scientific Calc.pdb
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\bin\Debug\Scientific Calc.xml
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\obj\Debug\Scientific Calc.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\obj\Debug\Scientific Calc.exe
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\obj\Debug\Scientific Calc.xml
+C:\Users\ASUS\Desktop\Scientific Calc\Scientific Calc\obj\Debug\Scientific Calc.pdb
